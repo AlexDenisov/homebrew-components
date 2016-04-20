@@ -1,8 +1,8 @@
 class Components < Formula
   homepage "https://github.com/AlexDenisov/Components"
-  url "https://github.com/AlexDenisov/Components/releases/download/0.3.0-rc.2/components.tar.gz"
-  sha1 "465a22cf4d39463feec0896c955fa6967793f063"
-  version '0.3.0-rc.2'
+  url "https://github.com/AlexDenisov/Components/releases/download/0.3.0/components.tar.gz"
+  sha1 "30bf0b18344295f9718b9a0af03373de37264a45"
+  version '0.3.0'
 
   def install
     bin.install "components"
